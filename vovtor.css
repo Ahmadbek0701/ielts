@@ -1,0 +1,105 @@
+body {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    }
+.body{
+    background-image: url(./images/hero-3-cover.png);
+    height: 470px;
+}
+.hd1 {
+    font-weight: 500;
+    display: inline-block;
+}
+.hd3 {
+    display: inline-block;
+    margin-left: 100px;
+}
+.hd2 {
+    display: inline-block;
+    margin-left: 30px;
+}
+.hd4 {
+    display: inline-block;
+    margin-left: 30px;
+}
+.hd5 {
+    margin-left: 10px;
+}
+.bdy {
+    margin-left: 30px;
+}
+.second{
+    margin-top: 50px;
+}
+.eeepic {
+    margin-left: 30px;
+}
+.third {
+    margin-top: 50px;
+}
+.bdy1 {
+    margin-top: -20px;
+    font-weight: 600;
+}
+.bdy2 {
+    font-weight: 400;
+}
+.bdy3 {
+    font-weight: 400;
+    margin-top: -20px;
+}
+.fr2 {
+    margin-top: -20px;
+}
+.frmg1 {
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.fourth1 {
+    margin-left: 100px;
+}
+.fr3 {
+    margin-left: 75px;
+}
+.fr4 {
+    font-weight: 800;
+    margin-left: 75px;
+}
+.fr5 {
+    margin-left: 90px;
+    font-weight: 400;
+}
+.fourth2 {
+    margin-left: 320px;
+}
+.ft1 {
+    margin-top: -20px;
+}
+::placeholder {
+    font-size: larger;
+}
+.footer2 {
+    margin-top: 50px;
+}
+.a1 {
+    margin-left: 20px;
+}
+.footer2 {
+    margin-left: 20px;
+}
+.ft22 {
+    margin-left: 130px;
+}
+.prr {
+    margin-left: 450px;
+}
+.prr2 {
+    margin-left: 445px;
+}
+.prr1 {
+    margin-left: 350px;
+}
+.prr3 {
+    margin-left: 290px;
+}
